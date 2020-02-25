@@ -1,6 +1,6 @@
 ## CV
 
-```
+
    <div class="post">
   <h1>About Me</h1>
   <time datetime=2019-11-11T00:00:00Z class="post-date">Mon, Nov 11, 2019</time>
@@ -241,7 +241,7 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <!-- <li style="font-size:16px">Blood donation to help people with medical conditions</li> -->
 </ul>
 </div>
-```
+
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
