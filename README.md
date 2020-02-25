@@ -1,8 +1,5 @@
-<h1>CV</h1>
-
-
-   <div class="post">
-  <h1>About Me</h1>
+<div class="post">
+  <h1>CV</h1>
   <time datetime=2019-11-11T00:00:00Z class="post-date">Mon, Nov 11, 2019</time>
   <!DOCTYPE html>
 <div class="message">
