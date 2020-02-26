@@ -1,6 +1,6 @@
 <div class="post">
   <h1>About Me</h1>
-  <time datetime=2019-11-11T00:00:00Z class="post-date">Mon, Nov 11, 2019</time>
+  <time datetime="2019-11-11T00:00:00Z" class="post-date">Mon, Nov 11, 2019</time>
 <div class="message">
   <small>
 I have over 1 year experience designing, developing, integrating, and supporting corporate tools and applications,
