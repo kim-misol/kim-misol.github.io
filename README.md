@@ -22,11 +22,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 
 <h2><span style="color:#e00000">EDU</span>CATION</h2><br>
-    <span style="display:inline-block;width:558px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
+    <span style="display:inline-block;width:553px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.murdoch.edu.au/" target="_blank">Murdoch, Perth, Australia</a></small>
     <p>
-        <span style="display:inline-block; width:672px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
+        <span style="display:inline-block; width:667px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
         <span style="text-align:right"><small>Sep. 2018</small></span>
     </p>
 
