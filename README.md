@@ -206,7 +206,7 @@ I have in-depth understanding of business and IT requirements to streamline admi
             followers wanted to ask or inform to other followers on the page.</li>
 </ul>
 <!-- 3 -->
-<span style="display:inline-block; width:545px;"><b>Run For Eat Running club </b></span>
+<span style="display:inline-block; width:465px;"><b>Run For Eat Running club </b></span>
 <small><span style="color:#e00000">S.Korea / Singapore / Malaysia</span></small>
 <p>
     <span style="display:inline-block; width:597px;"><small>MEMBER</small></span>
