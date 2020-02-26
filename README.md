@@ -22,27 +22,27 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 
 <h2><span style="color:#e00000">EDU</span>CATION</h2><br>
-    <span style="display:inline-block; width:680px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
+    <span style="display:inline-block;width:650px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.murdoch.edu.au/" target="_blank">Murdoch, Perth, Australia</a></small>
     <p>
-        <span style="display:inline-block; width:680px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
+        <span style="display:inline-block; width:717px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
         <span style="text-align:right"><small>Sep. 2018</small></span>
     </p>
 
-    <span style="display:inline-block; width:680px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:690px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
-        <span style="display:inline-block; width:680px;"><small><small><i>B.S. INFORMATION TECHNOLOGY</i></small></small></span>
+        <span style="display:inline-block; width:752px;"><small><small><i>B.S. INFORMATION TECHNOLOGY</i></small></small></span>
         <span style="text-align:right"><small>Jun. 2016</small></span>
     </p>
 
-    <span style="display:inline-block; width:680px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:690px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
-        <span style="display:inline-block; width:680px;"><small><small><i>IN PROFESSIONAL BUSINESS ENGLISH</i></small></small></span>
+        <span style="display:inline-block; width:750px;"><small><small><i>IN PROFESSIONAL BUSINESS ENGLISH</i></small></small></span>
         <span style="text-align:right"><small>Oct. 2015</small></span>
     </p>
 
@@ -51,11 +51,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 <h2><span style="color:#e00000">WOR</span>K EXPERIENCE</h2><br>
 
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';"
+<span style="display:inline-block; width:749px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';"
     onMouseOut="this.style.color='#555555'" href="http://www.sage9.com" target="_blank"><b>Sage9 PTE LTD</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>FULLTIME</small></span>
+    <span style="display:inline-block; width:677px;"><small>FULLTIME</small></span>
     <span style="text-align:right"><small>Nov 2018-CURRENT</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -63,11 +63,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px"><b>Description:</b> Development Business website and E-Commerce website system as Full Stack Developer</li>
 </ul>
 
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="http://www.myascents.com/" target="_blank"><b>Ascent Solution PTE LTD</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>INTERNSHIP</small></span>
+    <span style="display:inline-block; width:751px;"><small>INTERNSHIP</small></span>
     <span style="text-align:right"><small>Aug 2018</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -98,11 +98,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 <h2><span style="color:#e00000">PRO</span>JECTS</h2><br>
 <!-- 1 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';"
+<span style="display:inline-block; width:749px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';"
     onMouseOut="this.style.color='#555555'" href="https://www.lightscience.com/" target="_blank"><b>LightScience</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold';"
+    <span style="display:inline-block; width:678px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold';"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="https://www.lightscience.com/" target="_blank">https://www.lightscience.com</a></small></span>
     <span style="text-align:right"><small>Aug.2019-CURRENT</small></span>
 </p>
@@ -111,11 +111,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">Responsible for Font-end (Wordpress) and Back-end (PHP, MySQL)</li>
 </ul>
 <!-- 2 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="http://v2.impa.sage9.com/" target="_blank"><b>IMPA MARINE</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
+    <span style="display:inline-block; width:678px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="http://v2.impa.sage9.com/" target="_blank">http://v2.impa.sage9.com</a></small></span>
     <span style="text-align:right"><small>Mar.2019-CURRENT</small></span>
 </p>
@@ -124,11 +124,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">Responsible for Font-end (HTML, VueJs, Vuetify) and Back-end (PHP, SQL Server)</li>
 </ul>
 <!-- 3 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="https://adverts.ahtc.sg/" target="_blank"><b>Aljunied-Hougang Town Council</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
+    <span style="display:inline-block; width:678px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="https://adverts.ahtc.sg/" target="_blank">https://adverts.ahtc.sg</a></small></span>
     <span style="text-align:right"><small>Mar.2019-OCT.2019</small></span>
 </p>
@@ -137,11 +137,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">Responsible for Font-end (HTML, VueJs, Vuetify) and Back-end (PHP, SQL Server)</li>
 </ul>
 <!-- 4 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="http://www.aspectus.com.sg/" target="_blank"><b>Aspectus</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
+    <span style="display:inline-block; width:686px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="http://www.aspectus.com.sg/" target="_blank">http://www.aspectus.com.sg</a> &ensp;
         <a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="http://clients.aspectus.com.sg/#/login" target="_blank">http://clients.aspectus.com.sg</a></small></span>
@@ -152,11 +152,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">Responsible for Font-end (HTML, VueJs, Wordpress) and Back-end (PHP, SQL Server)</li>
 </ul>
 <!-- 5 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="https://mpmsystem.com/" target="_blank"><b>MPMsystem</b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
+    <span style="display:inline-block; width:678px;"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold'"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="https://mpmsystem.com/" target="_blank">https://mpmsystem.com</a></small></span>
     <span style="text-align:right"><small>Dec.2018-Feb.2019</small></span>
 </p>
@@ -169,16 +169,17 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 <h2><span style="color:#e00000">EXT</span>RACURRICULAR ACTIVITY</h2><br>
 <!-- 1 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#4267b2';"
+<span style="display:inline-block; width:749px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#4267b2';"
     onMouseOut="this.style.color='#555555'" href="https://www.facebook.com/KisskSingapore/" target="_blank"><b>Korean International Student Society – Kaplan (KISS-K)
         <span style="background-color:#4267b2;color:#fff">&nbsp;f&nbsp;</span>
     </b></a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p style="margin-bottom:-5px;">
-    <span style="display:inline-block; width:680px;"><small>MEMBER, TREASURER</small></span>
+    <span style="display:inline-block; width:685px;"><small>MEMBER, TREASURER</small></span>
     <span style="text-align:right"><small>Jun.2016 - Jan.2017</small></span>
 </p>
-<pdisplay:inline-block; width:680px"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold';"
+<p>
+    <span style="width:678px"><small><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699';this.style.fontWeight='bold';"
         onMouseOut="this.style.color='#555555';this.style.fontWeight='normal'" href="https://campuslife.kaplan.com.sg/en/student-life/interest-groups/32/subscribe/" target="_blank">https://campuslife.kaplan.com.sg/en/student-life/interest-groups/32/subscribe</a></small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -188,13 +189,13 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">promoted each of events with kiss-k members to the targets before the event.</li>
 </ul>
 <!-- 2 -->
-<span style="display:inline-block; width:680px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
     onMouseOut="this.style.color='#555555'" href="https://www.facebook.com/SGCTwith2hrs/" target="_blank"><b>Co-operation of Facebook page (Name of ‘Singapore good tips')
     <span style="background-color:#4267b2;color:#fff">&nbsp;f&nbsp;</b></span>
 </a></span>
 <small><span style="color:#e00000">Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>CORE MEMBER</small></span>
+    <span style="display:inline-block; width:679px;"><small>CORE MEMBER</small></span>
     <span style="text-align:right"><small>Jan.2016 - Mar.2017</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -203,10 +204,10 @@ I have in-depth understanding of business and IT requirements to streamline admi
             followers wanted to ask or inform to other followers on the page.</li>
 </ul>
 <!-- 3 -->
-<span style="display:inline-block; width:680px;"><b>Run For Eat Running club </b></span>
+<span style="display:inline-block; width:605px;"><b>Run For Eat Running club </b></span>
 <small><span style="color:#e00000">S.Korea / Singapore / Malaysia</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>MEMBER</small></span>
+    <span style="display:inline-block; width:677px;"><small>MEMBER</small></span>
     <span style="text-align:right"><small>Sep.2015 - Dec.2017</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -214,10 +215,10 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">joined in 5km, 10km, half marathon (21KM) with obstacles(group), 42KM Walk (Total: 16 times).</li>
 </ul>
 <!-- 4 -->
-<span style="display:inline-block; width:680px;"><b>Donation</b></span>
+<span style="display:inline-block; width:683px;"><b>Donation</b></span>
 <small><span style="color:#e00000">S.Korea / Singapore</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>Donor</small></span>
+    <span style="display:inline-block; width:675px;"><small>Donor</small></span>
     <span style="text-align:right"><small>Aug.2011 - CURRENT</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
@@ -225,10 +226,10 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">Blood donation to help people with medical conditions</li>
 </ul>
 <!-- 5 -->
-<span style="display:inline-block; width:680px;"><b>The Red Cross Blood Centre </b></span>
+<span style="display:inline-block; width:720px;"><b>The Red Cross Blood Centre </b></span>
 <small><span style="color:#e00000">Seoul, S.Korea</span></small>
 <p>
-    <span style="display:inline-block; width:680px;"><small>VOLUNTEER</small></span>
+    <span style="display:inline-block; width:682px;"><small>VOLUNTEER</small></span>
     <span style="text-align:right"><small>Jun.2007 - Nov.2011</small></span>
 </p>
 <ul style="margin-top:-20px;margin-left:-10px">
