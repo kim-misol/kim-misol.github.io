@@ -22,11 +22,11 @@ I have in-depth understanding of business and IT requirements to streamline admi
 
 
 <h2><span style="color:#e00000">EDU</span>CATION</h2><br>
-    <span style="display:inline-block;width:500px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
+    <span style="display:inline-block;width:550px;"><b>Bachelor (MurdochUniversity of Science)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.murdoch.edu.au/" target="_blank">Murdoch, Perth, Australia</a></small>
     <p>
-        <span style="display:inline-block; width:647px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
+        <span style="display:inline-block; width:667px;"><small><small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small></small></span>
         <span style="text-align:right"><small>Sep. 2018</small></span>
     </p>
 
@@ -189,8 +189,7 @@ I have in-depth understanding of business and IT requirements to streamline admi
     <li style="font-size:16px">promoted each of events with kiss-k members to the targets before the event.</li>
 </ul>
 <!-- 2 -->
-<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'"
-    onMouseOut="this.style.color='#555555'" href="https://www.facebook.com/SGCTwith2hrs/" target="_blank"><b>Co-operation of Facebook page (Name of ‘Singapore good tips')
+<span style="display:inline-block; width:747px;"><a style="text-decoration: none;color: #555555" onMouseOver="this.style.color='#006699'" onMouseOut="this.style.color='#555555'" href="https://www.facebook.com/SGCTwith2hrs/" target="_blank"><b>Co-operation of Facebook page (Name of ‘Singapore good tips')
     <span style="background-color:#4267b2;color:#fff">&nbsp;f&nbsp;</b></span>
 </a></span>
 <small><span style="color:#e00000">Singapore</span></small>
