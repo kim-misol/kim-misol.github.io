@@ -30,7 +30,7 @@ I have in-depth understanding of business and IT requirements to streamline admi
         <span style="text-align:right"><small>Sep. 2018</small></span>
     </p>
 
-    <span style="display:inline-block; width:610px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:610px;"><b>Diploma (Kaplan Higher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
@@ -38,7 +38,7 @@ I have in-depth understanding of business and IT requirements to streamline admi
         <span style="text-align:right"><small>Jun. 2016</small></span>
     </p>
 
-    <span style="display:inline-block; width:610px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:610px;"><b>Diploma (Kaplan Higher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
