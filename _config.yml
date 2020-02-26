@@ -6,7 +6,8 @@ highlighter:      rouge
 title:            Misol Kim
 tagline:          'A Jekyll theme'
 description:      'Application Developer'
-url:              https://kim-misol.github.io
+url:              ""
+# url:              https://kim-misol.github.io
 baseurl:          ""
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -28,8 +29,8 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
-sidebar_email_link:  'mailto:misolkim94@gmail.com'
+# sidebar_home_link:  true
+sidebar_home_link:  'mailto:misolkim94@gmail.com'
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
