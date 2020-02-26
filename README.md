@@ -30,19 +30,19 @@ I have in-depth understanding of business and IT requirements to streamline admi
         <span style="text-align:right"><small>Sep. 2018</small></span>
     </p>
 
-    <span style="display:inline-block; width:690px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:610px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
-        <span style="display:inline-block; width:752px;"><small><small><i>B.S. INFORMATION TECHNOLOGY</i></small></small></span>
+        <span style="display:inline-block; width:672px;"><small><small><i>B.S. INFORMATION TECHNOLOGY</i></small></small></span>
         <span style="text-align:right"><small>Jun. 2016</small></span>
     </p>
 
-    <span style="display:inline-block; width:690px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
+    <span style="display:inline-block; width:610px;"><b>Diploma (KaplanHigher Education Academy)</b></span>
     <small><a style="text-decoration: none;color:#e00000" onMouseOver="this.style.fontWeight='bold';"
         onMouseOut="this.style.fontWeight='normal'" href="https://www.kaplan.com.sg/" target="_blank">Kaplan, Singapore</a></small>
     <p>
-        <span style="display:inline-block; width:750px;"><small><small><i>IN PROFESSIONAL BUSINESS ENGLISH</i></small></small></span>
+        <span style="display:inline-block; width:670px;"><small><small><i>IN PROFESSIONAL BUSINESS ENGLISH</i></small></small></span>
         <span style="text-align:right"><small>Oct. 2015</small></span>
     </p>
 
