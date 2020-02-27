@@ -1,0 +1,2 @@
+sidebar	:	_inclueds/sidebar.html
+main	:	_layouts/default.html
