@@ -1,0 +1,244 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>SolBot</title>
+		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css"/>
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<style>
+		li { list-style:none; }
+		.picture { list-style:none; padding:0; margin:0; }
+		.picture li { float:left; width:50%;}
+		.picture li a {display:block; margin:5px; border: 1px }
+		.picture li img { display:block; width:50%;  height:auto;}
+		.picture li img:hover { display:block; width:100%;  height:auto;} 
+		</style>
+	</head>
+
+	<body>
+		<div data-theme="b">
+			<div data-role="page" id="home">
+				<div data-role="header" data-theme="b">
+					<h1>SolBot - Kakaotalk ChatBot</h1>
+				</div>
+				<div data-role="content" style="text-align:center;padding-left: 5%;padding-right: 5%;padding-top: 5%;">
+					<img src="favicon.png" width="15%">
+					<ul data-role="listview" data-inset="true">
+						<li><a href="#intro">솔봇소개</a></li>
+						<li><a href="#pic_ex">사진</a></li>
+						<li><a href="#vedio_ex" data-rel="dialog">동영상</a></li>
+						<li><a href="#wizard3-1" data-rel="dialog">독도음악</a></li>
+					</ul>
+				</div>
+				<div data-role="footer" data-position="fixed" data-theme="b">
+					<h1>made by K.Misol</h1>
+				</div>
+			</div>
+			
+			<div data-role="page" id="intro" data-theme="b">
+				<div data-role="header" data-theme="b">
+					<a href="#home" data-icon="arrow-l" data-direction="reverse">Back</a>			
+					<h1>독소 소개</h1>
+				</div>
+				<div data-role="content" style="padding-left: 5%;padding-right: 5%;padding-top: 5%;">
+					<div  style="text-align:center">
+						<img src="solbot_channel.PNG">
+					</div>			
+					<div data-role="collapsible-set" data-theme="b" data-content-theme="e">
+						<div data-role="collapsible" data-collapsed="false">
+							<h3>솔봇</h3>
+							<p>솔봇에 대해서 쏼라쏼라</p>
+						</div>
+						<div data-role="collapsible">
+							<h3>기능</h3>
+							<p>
+								1. 특정 지역의 날씨 검색 <br>
+								- 현재온도<br>
+								- 체감온도<br>
+								- 시간당 강수량<br>
+								- 미세먼지<br>
+								- 초미세먼지<br>
+								<br>
+								2. 특정 지역의 습도 검색 <br>
+								- 현재 시간으로부터 6시간 동안의 시간당 예상 습도<br>
+								<br>
+								3. 특정 지역의 강수량 검색 <br>
+								- 현재 시간으로부터 6시간 동안의 시간당 강수 확률과 예상 강수량<br>
+								<br>
+
+								
+								4. 채팅방 내에서의 유튜브 검색 및 링크 공유 <br>
+								<br>
+								5. 채팅방 내에서의 구글 검색 및 링크 공유 <br>
+								<br>
+								6. 채팅방 내에서의 네이버 검색 및 링크 공유 <br>
+								<br>
+								7. 채팅방 내에서의 다음 검색 및 링크 공유 <br>
+								<br>
+								8. 채팅방 내에서의 인스타그램 검색 및 링크 공유 <br>
+								<br>
+								9. 채팅방 내에서의 나무위키 검색 및 링크 공유 <br>
+								<br>
+								
+								10. D-day 계산 <br>
+								<br>
+								11. 메뉴 추천 및 원하는 추천 메뉴 추가 <br>
+								<br>
+								12. 특정번호 버스의 노선과 해당 버스들이 위치한 정류장 확인 <br>
+								<br>
+								13. 코로나19의 국내 현재 상황<br>
+								- 확진자 동선 지도로 확인<br>
+								- 국가별 상황<br>
+								<br>
+							</p>
+						</div>
+						<div data-role="collapsible" >
+							<h3>솔봇 이용방법</h3>
+							<p>
+								아래의 명령어를 입력하면 관련 기능을 사용할 수 있다.<br><br>
+								--------------- 기상 정보 *<br>
+								?날씨 [지역]<br>
+								?습도 [지역]<br>
+								?강수 [지역]      예) ?강수 서울<br>
+								--------------- 검색 엔진 *<br>
+								?유튜브 [키워드]<br>
+								?구글 [키워드]<br>
+								?네이버 [키워드]<br>
+								?다음 [키워드]<br>
+								?인스타그램 [키워드]<br>
+								?나무위키 [키워드]<br>
+								--------------- 추가 기능 *<br>
+								?디데이 [yyyymmdd]  예) ?디데이 20191231<br>
+								?메뉴 [추천 메뉴 수]]  예) ?메뉴 3<br>
+								?버스 [지역][버스번호]  예) ?버스 강남402<br>
+								--------------- 기타정보 *<br>
+								?코로나<br>
+								<a href="#pic_ex" data-rel="dialog" style="text-decoration: none"><button>사진으로 예시 보기</button></a>
+								<a href="#vedio_ex" data-rel="dialog" style="text-decoration: none"><button>동영상으로 예시 보기</button></a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div data-role="footer" data-position="fixed" data-theme="b">
+					<h1>made by K.Misol</h1>
+				</div>		
+			</div>
+			
+			<div data-role="page" id="vedio_ex" style="margin-top: -42px;" data-theme="b">
+				<div data-role="header" data-position="fixed" data-theme="b">
+					<h1>동영상 예시</h1>
+				</div>
+				<div data-role="content" style="padding-left: 7%;padding-right: 7%;padding-top: 5%;">
+					<div class="ui-bar ui-bar-e"> 특정 지역의 날씨 검색</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 특정 지역의 습도 검색</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 특정 지역의 강수량 검색</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 유튜브 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 구글 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 네이버 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 다음 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 인스타그램 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 채팅방 내에서의 나무위키 검색 및 링크 공유</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					
+					<div class="ui-bar ui-bar-e"> D-day 계산</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 메뉴 추천 및 원하는 추천 메뉴 추가</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 특정번호 버스의 노선과 해당 버스들이 위치한 정류장 확인</div> <br>
+					<li><iframe width="100%" height="240" src="http://www.youtube.com/embed/muB4_LNZ2Rk"></iframe></li><br/>
+					<br>
+					<div class="ui-bar ui-bar-e"> 코로나19의 국내 현재 상황</div><br>
+					<br>
+					<li><video controls width="100%" preload="metadata">
+						<source src="mop.mp4" type="video/mp4">
+					</video></li>
+				</div>
+				<div data-role="footer" data-theme="b">
+				</div>
+			</div>
+			
+			<div data-role="page" id="wizard3-1">
+				<div data-role="header">
+					<h1>독도 노래1</h1>
+				</div>
+				<div data-role="content">
+					<div class="ui-bar ui-bar-e">홀로 아리랑</div><br/>
+					<audio controls width="100%" preload="metadata">
+						<source src="arirangalone.mp3" type="audio/mp3">
+					</audio>	
+					<img src="3-1.jpg" alt="" width="100%">
+				</div>
+				<div data-role="footer">
+					<a href="#home"  data-direction="reverse">이전</a>
+					<a href="#wizard3-2" data-rel="dialog" data-transition="slide">다음</a>
+				</div>
+			</div>
+
+			<div data-role="page" id="wizard3-2">
+				<div data-role="header">
+					<h1>독도 노래2</h1>
+				</div>
+				<div data-role="content">
+					<div class="ui-bar ui-bar-e">독도는 우리땅</div><br/>
+					<audio controls width="100%" preload="metadata">
+						<source src="dockdo.mp3" type="audio/mp3">
+					</audio>			
+					<img src="3-2.jpg" alt="" width="100%">
+				</div>
+				<div data-role="footer">
+					<a href="#wizard3-1"  data-direction="reverse">이전</a>
+					<a href="#home">Back</a>
+				</div>
+			</div>
+
+			<div data-role="page" id="pic_ex"  data-theme="b">
+				<div data-role="header" data-position="fixed"  data-theme="b">
+					<a href="#home" data-icon="arrow-l" data-direction="reverse">Back</a>
+					<h1>솔봇 스크린샷</h1>
+				</div>
+				<div data-role="content">
+					<ul class="picture">
+						<li><a href="4-1.jpg" rel="external"><img src="4-1.jpg" /></a></li>	
+						<li><a href="4-2.jpg" rel="external"><img src="4-2.jpg" /></a></li>	
+						<li><a href="4-3.jpg" rel="external"><img src="4-3.jpg" /></a></li>	
+						<li><a href="4-4.jpg" rel="external"><img src="4-4.jpg" /></a></li>	
+						<li><a href="4-5.jpg" rel="external"><img src="4-5.jpg" /></a></li>	
+						<li><a href="4-6.jpg" rel="external"><img src="4-6.jpg" /></a></li>	
+						<li><a href="4-7.jpg" rel="external"><img src="4-7.jpg" /></a></li>	
+						<li><a href="4-8.jpg" rel="external"><img src="4-8.jpg" /></a></li>	
+						<li><a href="4-9.jpg" rel="external"><img src="4-9.jpg" /></a></li>	 
+						<li><a href="4-10.jpg" rel="external"><img src="4-10.jpg" /></a></li>    
+						<li><a href="4-11.jpg" rel="external"><img src="4-11.jpg" /></a></li>   
+						<li><a href="4-12.jpg" rel="external"><img src="4-12.jpg" /></a></li>
+					</ul>
+				</div>
+				<div data-role="footer" data-position="fixed" data-theme="b">
+					<h1>made by K.Misol</h1>
+				</div>		
+			</div>
+		</div>	
+	</body>
+</html>
