@@ -3,6 +3,17 @@
     <head>
         <meta charset="utf-8">
         <title>KakaoMap</title>
+    </head>
+    <body>
+        <div id="map" style="width:80%;height:50%;"></div>
+        <p>
+            <button onclick="selectOverlay('MARKER')">마커</button>
+            <!-- <button onclick="selectOverlay('POLYLINE')">선</button> -->
+            <button onclick="selectOverlay('CIRCLE')">원</button>
+            <!-- <button onclick="selectOverlay('RECTANGLE')">사각형</button> -->
+            <!-- <button onclick="selectOverlay('POLYGON')">다각형</button> -->
+        </p>
+    
         <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=14c32e894bc092b7b77d64d68100c5fa&libraries=services,clusterer,drawing"></script>
         <script>
             var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
@@ -78,16 +89,5 @@
                 manager.select(kakao.maps.drawing.OverlayType[type]);
             }
         </script>
-    </head>
-    <body>
-        <div id="map" style="width:80%;height:50%;float:center;"></div>
-        <p>
-            <button onclick="selectOverlay('MARKER')">마커</button>
-            <!-- <button onclick="selectOverlay('POLYLINE')">선</button> -->
-            <button onclick="selectOverlay('CIRCLE')">원</button>
-            <!-- <button onclick="selectOverlay('RECTANGLE')">사각형</button> -->
-            <!-- <button onclick="selectOverlay('POLYGON')">다각형</button> -->
-        </p>
-    
     </body>
 </html>
