@@ -121,10 +121,11 @@
             // Drawing Manager로 그려진 객체 데이터를 가져와 아래 지도에 표시합니다
             function getDataFromDrawingMap() {
                 // Drawing Manager에서 그려진 데이터 정보를 가져옵니다 
-                var data = manager.getData();
-                console.log(JSON.stringify(data));
-                console.log(data);
-                alert(JSON.stringify(data));
+                var _data = manager.getData();
+                console.log(JSON.stringify(_data));
+                // console.log(data);
+                // alert(JSON.stringify(data));
+                var data = '{"marker":[],"polyline":[],"rectangle":[],"circle":[{"type":"circle","sPoint":{"x":127.03468793916703,"y":37.480875122733316},"ePoint":{"x":127.05541108156191,"y":37.497372265624826},"center":{"x":127.04504837102681,"y":37.48912415506065},"coordinate":"wgs84","options":{"strokeColor":"#39f","strokeWeight":3,"strokeStyle":"solid","strokeOpacity":1,"fillColor":"#39f","fillOpacity":0.5},"radius":915.9213940074586}],"polygon":[]}';
                 // 아래 지도에 그려진 도형이 있다면 모두 지웁니다
                 removeOverlays();
 
