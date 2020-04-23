@@ -8,10 +8,7 @@
         <div id="map" style="width:80%;height:800px;"></div>
         <p>
             <button onclick="selectOverlay('MARKER')">마커</button>
-            <!-- <button onclick="selectOverlay('POLYLINE')">선</button> -->
             <button onclick="selectOverlay('CIRCLE')">원</button>
-            <!-- <button onclick="selectOverlay('RECTANGLE')">사각형</button> -->
-            <!-- <button onclick="selectOverlay('POLYGON')">다각형</button> -->
         </p>
     
         <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=14c32e894bc092b7b77d64d68100c5fa&libraries=services,clusterer,drawing"></script>
@@ -19,7 +16,7 @@
             var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
                 mapOption = { 
                     center: new kakao.maps.LatLng(37.490979, 127.055585), // 지도의 중심좌표 // 도곡역
-                    level: 1 // 지도의 확대 레벨
+                    level: 5 // 지도의 확대 레벨
                 };
 
             // 지도를 표시할 div와  지도 옵션으로  지도를 생성합니다
@@ -30,9 +27,6 @@
                 drawingMode: [ // drawing manager로 제공할 그리기 요소 모드입니다
                     kakao.maps.drawing.OverlayType.MARKER,
                     kakao.maps.drawing.OverlayType.CIRCLE,
-                    // kakao.maps.drawing.OverlayType.POLYLINE,
-                    // kakao.maps.drawing.OverlayType.RECTANGLE,
-                    // kakao.maps.drawing.OverlayType.POLYGON
                 ],
                 // 사용자에게 제공할 그리기 가이드 툴팁입니다
                 // 사용자에게 도형을 그릴때, 드래그할때, 수정할때 가이드 툴팁을 표시하도록 설정합니다
@@ -48,32 +42,6 @@
                     strokeColor: '#39f',
                     fillColor: '#39f',
                     fillOpacity: 0.5
-                }
-                ,polylineOptions: { // 선 옵션입니다
-                    draggable: true, // 그린 후 드래그가 가능하도록 설정합니다
-                    removable: true, // 그린 후 삭제 할 수 있도록 x 버튼이 표시됩니다
-                    editable: true, // 그린 후 수정할 수 있도록 설정합니다 
-                    strokeColor: '#39f', // 선 색
-                    hintStrokeStyle: 'dash', // 그리중 마우스를 따라다니는 보조선의 선 스타일
-                    hintStrokeOpacity: 0.5  // 그리중 마우스를 따라다니는 보조선의 투명도
-                },
-                rectangleOptions: {
-                    draggable: true,
-                    removable: true,
-                    editable: true,
-                    strokeColor: '#39f', // 외곽선 색
-                    fillColor: '#39f', // 채우기 색
-                    fillOpacity: 0.5 // 채우기색 투명도
-                },
-                polygonOptions: {
-                    draggable: true,
-                    removable: true,
-                    editable: true,
-                    strokeColor: '#39f',
-                    fillColor: '#39f',
-                    fillOpacity: 0.5,
-                    hintStrokeStyle: 'dash',
-                    hintStrokeOpacity: 0.5
                 }
             };
 
