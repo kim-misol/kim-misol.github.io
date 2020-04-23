@@ -6,10 +6,10 @@
         <style>
             .map_wrap {width: 100%;position: relative;}
             .modes {position: absolute;top: 10px;left: 10px;z-index: 1;}
-            .getdata{position: absolute;top: 370px;left: 10px;z-index: 1;}
+            .getdata{position: absolute;top: 45vh;left: 10px;z-index: 1;}
             /* #drawingMap, #map {width: 100%;height: 350px;} */
-            #drawingMap, #map {width:80%;height:80vh;float:center;}
-            #map {margin-top: 30px;}
+            #drawingMap, #map {width:60%;height:40vh;margin-left:20%;}
+            #map {margin-top: 3vh;}
         </style>
     </head>
     <body>
@@ -35,8 +35,8 @@
             // Drawing Manager로 도형을 그릴 지도 div
             var drawingMapContainer = document.getElementById('drawingMap'),
                 drawingMap = { 
-                    center: new kakao.maps.LatLng(33.450701, 126.570667), // 지도의 중심좌표
-                    level: 3 // 지도의 확대 레벨
+                    center: new kakao.maps.LatLng(37.495581, 127.046151), // 지도의 중심좌표 // 도곡역
+                    level: 7 // 지도의 확대 레벨
                 };
 
             // 지도를 표시할 div와  지도 옵션으로  지도를 생성합니다
