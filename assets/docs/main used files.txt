@@ -1,0 +1,4 @@
+sidebar	:	components/inclueds/sidebar.html
+main	:	layouts/default.html
+tab header  :   components/inclueds/head.html
+favicon :       styles/favicon.ico

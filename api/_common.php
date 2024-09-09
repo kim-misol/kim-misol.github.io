@@ -705,7 +705,7 @@ function DownloadFile($file_alias)
                 header('Content-Transfer-Encoding: binary');
                 header('Expires: 0');
                 header('Cache-Control: must-revalidate, post-check=0, pre-check=0');
-                header('Pragma: public');
+                header('Pragma: assets');
                 header('Content-Length: ' . filesize($file_path)); //Remove
 
                 ob_clean();
