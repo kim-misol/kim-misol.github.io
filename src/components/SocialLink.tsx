@@ -1,4 +1,4 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 interface SocialLinkProps {
   href: string;
@@ -13,10 +13,10 @@ export default function SocialLink({ href, icon }: SocialLinkProps) {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <FontAwesomeIcon 
-        icon={icon} 
-        className="flex-shrink-0 text-sm sm:text-lg md:text-xl lg:text-2xl min-w-[24px]" 
-        />
+      <FontAwesomeIcon
+        icon={icon}
+        className="flex-shrink-0 text-sm sm:text-lg md:text-xl lg:text-2xl min-w-[24px]"
+      />
     </a>
   );
 }

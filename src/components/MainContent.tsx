@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Image from "next/image";
+import Link from 'next/link';
+import Image from 'next/image';
 
 export default function MainContent() {
   return (
@@ -21,12 +21,20 @@ export default function MainContent() {
 
       <div className="text-sm text-gray-700">
         <small>
-          싱가포르에서 컴퓨터 공학과 기업 정보 시스템을 전공한 후, 1년 2개월간 싱가포르의 IT 회사{" "}
-          <Link href="http://www.sage9.com" className="text-blue-600 hover:font-bold" target="_blank" rel="noopener noreferrer" legacyBehavior>
+          싱가포르에서 컴퓨터 공학과 기업 정보 시스템을 전공한 후, 1년 2개월간
+          싱가포르의 IT 회사{' '}
+          <Link
+            href="http://www.sage9.com"
+            className="text-blue-600 hover:font-bold"
+            target="_blank"
+            rel="noopener noreferrer"
+            legacyBehavior
+          >
             <a>Sage9 Pte Ltd</a>
-          </Link>{" "}
+          </Link>{' '}
           에서 풀스택 개발자로서 일하며 웹 어플리케이션을 개발하였습니다. <br />
-          현재 서울시와 한국벤처협회에서 주최하는 웹/앱 개발자 양성 뉴딜일자리 프로그램에 참여하고 있습니다.
+          현재 서울시와 한국벤처협회에서 주최하는 웹/앱 개발자 양성 뉴딜일자리
+          프로그램에 참여하고 있습니다.
         </small>
       </div>
 
@@ -44,12 +52,20 @@ export default function MainContent() {
       <div className="mb-6">
         <p className="font-bold">Bachelor (Murdoch University of Science)</p>
         <small className="float-right">
-          <Link href="https://www.murdoch.edu.au/" className="text-red-600 hover:font-bold" target="_blank" rel="noopener noreferrer" legacyBehavior>
+          <Link
+            href="https://www.murdoch.edu.au/"
+            className="text-red-600 hover:font-bold"
+            target="_blank"
+            rel="noopener noreferrer"
+            legacyBehavior
+          >
             <a>Murdoch, Perth, Australia</a>
           </Link>
         </small>
         <p>
-          <small><i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i></small>
+          <small>
+            <i>B.S. COMPUTER SCIENCE AND BUSINESS INFORMATION SYSTEM</i>
+          </small>
           <small className="float-right">Sep. 2018</small>
         </p>
       </div>
@@ -60,7 +76,13 @@ export default function MainContent() {
 
       <div className="mb-6">
         <p className="font-bold">
-          <Link href="http://www.sage9.com" className="text-gray-700 hover:text-blue-600" target="_blank" rel="noopener noreferrer" legacyBehavior>
+          <Link
+            href="http://www.sage9.com"
+            className="text-gray-700 hover:text-blue-600"
+            target="_blank"
+            rel="noopener noreferrer"
+            legacyBehavior
+          >
             <a>Sage9 PTE LTD</a>
           </Link>
         </p>
@@ -71,7 +93,9 @@ export default function MainContent() {
         </p>
         <ul className="list-disc list-inside ml-4">
           <li>직무: 어플리케이션 개발자</li>
-          <li>세부내용: 비지니스 웹사이트 및 E-커머스 웹시스템 개발 (풀스택)</li>
+          <li>
+            세부내용: 비지니스 웹사이트 및 E-커머스 웹시스템 개발 (풀스택)
+          </li>
         </ul>
       </div>
 

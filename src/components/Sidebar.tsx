@@ -1,6 +1,6 @@
-import Link from "next/link";
-import { icons } from "../utils/icons";
-import SocialLink from "./SocialLink";
+import Link from 'next/link';
+import { icons } from '../utils/icons';
+import SocialLink from './SocialLink';
 
 export default function Sidebar() {
   return (
@@ -12,10 +12,19 @@ export default function Sidebar() {
         </h1>
         <p className="mt-2 text-gray-400">Software Developer</p>
 
-        <nav className="flex items-center space-x-4 my-4" >
-          <SocialLink href="mailto:misolkim94@gmail.com" icon={icons.envelope} />
-          <SocialLink href="https://github.com/kim-misol/" icon={icons.github} />
-          <SocialLink href="https://www.linkedin.com/in/misolkim/" icon={icons.linkedin} />
+        <nav className="flex items-center space-x-4 my-4">
+          <SocialLink
+            href="mailto:misolkim94@gmail.com"
+            icon={icons.envelope}
+          />
+          <SocialLink
+            href="https://github.com/kim-misol/"
+            icon={icons.github}
+          />
+          <SocialLink
+            href="https://www.linkedin.com/in/misolkim/"
+            icon={icons.linkedin}
+          />
         </nav>
 
         <span className="block text-gray-400">Currently v2.0.0</span>
